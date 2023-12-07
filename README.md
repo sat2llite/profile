@@ -3,7 +3,7 @@
 <br>
 
 
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
 <br>
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,7 +16,7 @@
 <br>
 <br>
 
-## ⚒️ Tools
+### ⚒️ Tools
 <br>
 
 ![ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -28,7 +28,7 @@
 <br>
 
 
-## 📝 Follow Me
+### 📝 Follow Me
 <br>
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sat2llite)
